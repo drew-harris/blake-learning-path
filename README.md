@@ -51,7 +51,7 @@ This is a great channel
  * Learn how to organize parts of a website with flexbox
  * Learn how to position elements with the `position` attribute
 
- ## ***Step 1 Assignment***
+ ### **Mini Project Assignment**
   * Pick a professional website and try to copy a single page as close as possible.
 
   * **Don't pick a website that is too complicated** or has javascript/animations
