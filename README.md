@@ -43,7 +43,7 @@ This is a great channel
 [MDN Flexbox tutorial](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
 
-## ***Things to learn before you continue to Javascript:***
+## ***Things to learn before you continue to Step 1.5:***
  * Learn how to change backround colors and do gradient backrounds
  * Learn how to change the font, color, and size of text
  * Learn how to download fonts off of Google Fonts and use them in websites
